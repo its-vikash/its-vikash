@@ -1,4 +1,6 @@
-# 🌟 Vikash Singh | Frontend Developer
+<h1 align=center> Hi there, I'm Vikash Singh 👋</h1>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=300&height=50&lines=Frontend+Developer;Web+Developer;UI+Developer" alt="Typing SVG" /></a>
+</div>
 
 ![Profile Banner](https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80)
 
@@ -50,9 +52,10 @@ I'm a passionate **Senior Frontend Developer** with **7+ years** of experience b
 
 ## 📊 GitHub Stats
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details&tab=achievements?username=its-vikash&theme=tokyonight" alt="Achievements" height="165">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-vikash&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-vikash&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-vikash&theme=tokyonight" alt="GitHub Profile Details" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-vikash&theme=tokyonight" alt="Repos per Language" height="165">
 </p>
 
 <p align="center">
