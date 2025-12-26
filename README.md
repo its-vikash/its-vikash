@@ -52,13 +52,8 @@ I'm a passionate **Senior Frontend Developer** with **7+ years** of experience b
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details&tab=achievements?username=its-vikash&theme=tokyonight" alt="Achievements" height="165">
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-vikash&theme=tokyonight" alt="GitHub Profile Details" height="165">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-vikash&theme=tokyonight" alt="Repos per Language" height="165">
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-vikash&theme=radical&hide_border=true" alt="GitHub Streak" height="165">
 </p>
 
