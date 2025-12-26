@@ -53,6 +53,7 @@ I'm a passionate **Senior Frontend Developer** with **7+ years** of experience b
 ### **CMS & Frameworks**
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![SalesVu](https://img.shields.io/badge/SalesVu-000000?style=for-the-badge&logo=salesvu&logoColor=white)
 
 ## 📊 GitHub Stats
 
