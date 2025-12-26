@@ -2,7 +2,11 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=300&height=50&lines=Frontend+Developer;Web+Developer;UI+Developer" alt="Typing SVG" /></a>
 </div>
 
-![Profile Banner](https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80)
+<img 
+  src="https://raw.githubusercontent.com/its-vikash/its-vikash/main/banner.png"
+  alt="Vikash Singh | Senior Frontend Developer"
+  width="100%"
+/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend%20Developer-7%2B%20Years-blue?style=for-the-badge" alt="Experience">
